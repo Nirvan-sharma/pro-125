@@ -1,0 +1,39 @@
+body{
+    font-family: 'Ubuntu', sans-serif;
+     background-image: url(background.jpg);
+     background-repeat: no-repeat;
+     background-size: 1500px 700px;
+}
+
+.heading{
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px gray;
+    background-color:rgb(82, 116, 226) ;
+    color: seashell;
+}
+
+.note{
+    font-size: 15px;
+    color: black;
+    word-wrap: break-word;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    line-height: 2;
+    width: 100%;
+    background-color: rgb(82, 116, 226);
+    text-align: center;
+    font-size: 18px;
+}
+
+canvas{
+    border: 5px solid black;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+}
+
